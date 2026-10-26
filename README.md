@@ -1,11 +1,17 @@
 ## 👏 Hello!! I'm Lucas Badu Raines
+```
+                           ╱|、
+                          (˚ˎ 。7
+                          |、˜〵        hello!!!
+                          じしˍ,)ノ
+```
+
 ##  About Me
 _I am part of class of 2030 and the University Of Texas at San Antonio as a Cyber Security major! On the side, I like to dabble in game development._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![LuaRocks](https://img.shields.io/luarocks/v/:user/:moduleName)
 ## 🎉 Interests
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
